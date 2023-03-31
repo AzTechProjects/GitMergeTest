@@ -1,3 +1,3 @@
 # GitmergeTest 
 ## Gitmerge test commit for repo
-### this is a new commit for the repo test
+### this is a new commit for the repo test merge options
